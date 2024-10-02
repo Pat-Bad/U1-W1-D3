@@ -1,0 +1,41 @@
+
+#column {
+    width:55%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h2{
+    text-align:center;
+    color:rgb(62, 172, 172);
+    background-color: rgb(250, 236, 158,0.4); 
+    border-top:2px solid rgb(245, 209, 110)
+    
+}
+
+.container{
+    text-align:center;
+
+}
+.caption{
+    text-align:center;
+    color:rgb(185, 173, 173);
+}
+#featured{
+    color:rgb(240, 132, 8);
+}
+.featured-in{
+    border-left:2px solid orange;
+    padding-left:11px;
+    
+}
+
+#foot{
+    width:55%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#logo{
+    width:15%;
+}
