@@ -1,4 +1,9 @@
-
+.corpo{
+    font-family: "Frank Ruhl Libre", serif;
+    font-optical-sizing: auto;
+   
+    font-style: normal;
+  }
 #column {
     width:55%;
     margin-left:auto;
@@ -38,4 +43,8 @@ h2{
 
 #logo{
     width:15%;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
